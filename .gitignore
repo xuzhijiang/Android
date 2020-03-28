@@ -1,0 +1,66 @@
+__pycache__
+.settings/
+*.class
+*.ser
+.springBeans
+*.jar
+*.class
+*.war
+*.bin
+*.lock
+*.lck
+*.log
+.gradle/
+
+# MAC OS related
+.DS_Store
+__MACOSX
+
+target/
+.mvn
+
+# Eclipse
+.classpath
+.project
+gen/
+bin/
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+*.log
+/logs
+
+## JRebel ##
+rebel.xml
+
